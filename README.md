@@ -1,3 +1,5 @@
+[![Copier](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/copier-org/copier/master/img/badge/badge-grayscale-inverted-border-purple.json)](https://github.com/copier-org/copier)
+
 # Simple Copier Template
 
 A simple template for creating new projects with Copier.
