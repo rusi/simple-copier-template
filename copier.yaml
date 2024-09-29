@@ -1,4 +1,4 @@
-_min_copier_version: "6.0.0"
+_min_copier_version: "9.3.0"
 _templates_suffix: .jinja
 
 project_name:
